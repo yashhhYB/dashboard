@@ -59,13 +59,13 @@ If you have the project files on your local computer (for example, copied via US
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yashhh/accuknox.git
+   https://github.com/yashhhYB/dashboard
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd accuknox
+   cd CNAPP_Dashboard
    ```
 
 3. **Install Dependencies**
@@ -87,3 +87,7 @@ If you have the project files on your local computer (for example, copied via US
 - `src/App.js`: Main application component.
 - `src/index.js`: Entry point for the React application.
 - `package.json`: Lists dependencies and scripts.
+## Deployed Application
+
+The application is deployed and accessible at:  
+https://dashboardn-nl5lp1vnd-yashhhs-projects-c4997fdf.vercel.app
